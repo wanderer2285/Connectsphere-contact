@@ -37,9 +37,19 @@ http://localhost:3000
 - Leave a field empty and submit → you'll see a red error message
 - Check your terminal to see each valid submission logged
 
-## Project structure
+## Project Structure
+
+```bash
 connectsphere-contact/
-├── index.html    # The contact form (runs in the browser)
-├── server.js     # The Node.js/Express backend
-├── package.json  # Project config and dependencies
-└── README.md     # This file
+│
+├── index.html
+│   # The contact form (runs in the browser)
+│
+├── server.js
+│   # The Node.js / Express backend
+│
+├── package.json
+│   # Project configuration and dependencies
+│
+└── README.md
+    # Project documentation
